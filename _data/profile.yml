@@ -31,7 +31,7 @@ education:
   date: 2019 - 2023
 - name: The Hong Kong Polytechnic University
   logo: assets/images/badges/PolyU.svg
-  position: Ph.D. Student in the Department of Computing
+  position: Ph.D. Student in Computer Science
   date: 2023 - 2027(expected)
 
 # experience:
@@ -42,10 +42,12 @@ education:
 
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
+- name: Ministry of Education of China - HUAWEI“Future Star"
+  date: 2022
+- name: First Grade Scholarship of H.I.T.
   date: 2021
+- name: Outstanding Student of H.I.T
+  date: 2020
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
