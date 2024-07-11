@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "shen WANG"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> B.S., Harbin Institute of Technology (2023)'
-  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> B.S., Harbin Institute of Technology (2023)'
+  - '<span class="no-break"><img src="assets/images/badges/hit.png" alt="Peking University" class="inline-badge"/></span> B.S., Harbin Institute of Technology (2023)'
+  - '<span class="no-break"><img src="assets/images/badges/PolyU.svg" alt="Peking University" class="inline-badge"/></span> B.S., Harbin Institute of Technology (2023)'
 
 email: "your@email.com"
 gscholar: your_google_scholar_id
