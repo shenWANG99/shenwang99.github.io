@@ -3,14 +3,14 @@ secondary_name: ""
 navbar_name: "shen WANG"
 
 positions:
-  # - '<span class="no-break"><img src="assets/images/badges/hit.png" alt="Peking University" class="inline-badge"/></span> B.S., Harbin Institute of Technology (2023)'
+  - '<span class="no-break"><img src="assets/images/badges/hit.png" alt="Peking University" class="inline-badge"/></span> B.S., Harbin Institute of Technology (2023)'
   # - '<span class="no-break"><img src="assets/images/badges/PolyU.svg" alt="Peking University" class="inline-badge"/></span> B.S., Harbin Institute of Technology (2023)'
 
-email: "your@email.com"
+email: "ws9939@outlook.com"
 gscholar: your_google_scholar_id
 github: your_github_id
 twitter: your_twitter_id
-# wechat_qrcode: assets/images/etc/wechat.jpg
+wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
