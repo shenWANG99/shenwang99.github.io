@@ -17,9 +17,7 @@ wechat_qrcode: assets/images/etc/wechat.jpg
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+  My name is WANG Shen. Currently, I am a Ph.D. student in the Department of Computing at the Hong Kong Polytechnic University, under the supervision of Dr. \href{https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about}{\textcolor{blue}{Lei Yang}}. Previously, I received my B.E. from Harbin Institute of Technology. My main research interests focus on mobile computing, 3D vision and AI-driven wireless technologies etc.
 
 show_portrait: true
 portrait_url: assets/images/photos/portrait.jpg
