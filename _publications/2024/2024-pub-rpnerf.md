@@ -2,7 +2,7 @@
 title:          "Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos"
 date:           2024-11-8 00:01:00 +0800
 selected:       true
-pub:            "ACM Mobicom(CCF RANK A)"
+pub:            "ACM Mobicom(CCF-A)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
