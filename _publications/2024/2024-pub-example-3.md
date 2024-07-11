@@ -2,7 +2,7 @@
 title:          "Crowdsourced Geospatial Intelligence: Constructing 3D Urban Maps with Satellitic Radiance Fields"
 date:           2024-10-5 00:01:00 +0800
 selected:       true
-pub:            "ACM Ubicomp(CCF-A)"
+pub:            "ACM Ubicomp (CCF-A)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
