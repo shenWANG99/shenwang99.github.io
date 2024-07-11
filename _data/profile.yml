@@ -25,10 +25,14 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash.
 
 education:
-- name: Peking University
-  logo: assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
+- name: Harbin Institute of Technology
+  logo: assets/images/badges/hit.png
+  position: B.S. in Computer Science and Technology
+  date: 2019 - 2023
+- name: The Hong Kong Polytechnic University
+  logo: assets/images/badges/PolyU.svg
+  position: Ph.D. Student in the Department of Computing
+  date: 2023 - 2027(expected)
 
 # experience:
 # - name: Peking University
