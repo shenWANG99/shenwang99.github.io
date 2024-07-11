@@ -1,9 +1,10 @@
-primary_name: "Your Name"
+primary_name: "shen WANG"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "shen WANG"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> B.S., Peking University (2021)'
+  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> B.S., Harbin Institute of Technology (2023)'
+  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> B.S., Harbin Institute of Technology (2023)'
 
 email: "your@email.com"
 gscholar: your_google_scholar_id
