@@ -18,5 +18,4 @@ authors:
   - Lei Yang
 links:
   Code: https://github.com/luost26/academic-homepage
-  Unsplash: 
 ---
