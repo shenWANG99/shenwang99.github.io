@@ -17,5 +17,6 @@ authors:
   - Donghui Dai
   - Lei Yang
 links:
-  Code: https://github.com/luost26/academic-homepage
+  Demo: https://www.youtube.com/watch?v=rP-Oe07ZGT4
+
 ---
