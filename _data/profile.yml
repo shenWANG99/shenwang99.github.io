@@ -25,14 +25,15 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash.
 
 education:
-- name: Harbin Institute of Technology
-  logo: assets/images/badges/hit.png
-  position: B.S. in Computer Science and Technology
-  date: 2019 - 2023
 - name: The Hong Kong Polytechnic University
   logo: assets/images/badges/PolyU.svg
   position: Ph.D. Student in Computer Science
   date: 2023 - 2027(expected)
+- name: Harbin Institute of Technology
+  logo: assets/images/badges/hit.png
+  position: B.S. in Computer Science and Technology
+  date: 2019 - 2023
+
 
 # experience:
 # - name: Peking University
