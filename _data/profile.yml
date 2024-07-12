@@ -18,7 +18,7 @@ cv:
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Hi!!! I am a first-year Ph.D. student in the Department of Computing at the Hong Kong Polytechnic University, under the supervision of Dr. Lei Yang. Previously, I received my B.E. from Harbin Institute of Technology. My main research interests focus on mobile computing, 3D vision, visual security and AI-driven wireless technologies etc.
+  Hi!!! I am a first-year Ph.D. student in the Department of Computing at the Hong Kong Polytechnic University, under the supervision of <a href="https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about" target="_blank"><i class="fas fa-pencil-ruler"></i> Dr. Lei Yang</a>. Previously, I received my B.E. from Harbin Institute of Technology. My main research interests focus on mobile computing, 3D vision, visual security and AI-driven wireless technologies etc.
 
 show_portrait: true
 portrait_url: assets/images/photos/cat3.jpg
