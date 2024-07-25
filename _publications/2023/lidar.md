@@ -2,7 +2,7 @@
 ---
 title:          "Gait Impairment Assessment Service for Community-Dwelling Older Adults"
 date:           2023-7-28 00:01:00 +0800
-selected:       true
+selected:       flase
 pub:            "ICSS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
