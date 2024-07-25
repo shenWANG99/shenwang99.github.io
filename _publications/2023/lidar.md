@@ -17,7 +17,7 @@ authors:
   - Shen Wang
   - Deqiong Ding
   - Yongqing Han
-  -  Dianhui Chu
+  - Dianhui Chu
 links:
 
 
