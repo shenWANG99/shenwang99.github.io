@@ -23,7 +23,7 @@ high accuracy with reasonable cost and no privacy issue. The experiment
 results show obvious differences of disease-specific motor symptoms in
 comparing groups. The potential merit of gait assessment service in daily
 use is also explored in this study.. 
-cover:          assets/images/covers/coverrpnerf2.jpg
+cover:          assets/images/covers/covericss.jpg
 authors:
   - Xin Hu
   - Ke Xue
