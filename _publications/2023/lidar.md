@@ -32,6 +32,6 @@ authors:
   - Yongqing Han
   -  Dianhui Chu
 links:
-  Demo: https://www.youtube.com/watch?v=rP-Oe07ZGT4
+
 
 ---
