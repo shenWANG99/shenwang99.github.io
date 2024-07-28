@@ -1,6 +1,6 @@
 primary_name: "shen WANG"
 secondary_name: ""
-navbar_name: "shen WANG"
+navbar_name: "shen WANG(王申)"
 
 positions:
   - '<span class="no-break"><img src="assets/images/badges/PolyU.svg" alt="PolyU" class="inline-badge"/></span> Ph.D. Student at HK PolyU'
@@ -18,7 +18,7 @@ cv:
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Hi!🥳 I am shen WANG(王申), a first-year Ph.D. student in the<a href="https://www.polyu.edu.hk/comp/" target="_blank"> Department of Computing</a> at the Hong Kong Polytechnic University, under the supervision of Dr.<a href="https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about" target="_blank"> Lei Yang</a>. Previously, I received my B.E. from Harbin Institute of Technology. My main research interests focus on mobile computing, 3D vision, visual security and Artificial Intelligence of Things (AIoT).
+  Hi!🥳 I am currently a first-year Ph.D. student in the<a href="https://www.polyu.edu.hk/comp/" target="_blank"> Department of Computing</a> at the Hong Kong Polytechnic University, under the supervision of Dr.<a href="https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about" target="_blank"> Lei Yang</a>. Previously, I received my B.E. from Harbin Institute of Technology. My main research interests are centered around on mobile computing, 3D vision, visual security and Artificial Intelligence of Things (AIoT).
 
 show_portrait: true
 portrait_url: assets/images/photos/cat3.jpg
