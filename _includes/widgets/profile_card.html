@@ -12,8 +12,8 @@
                             {{ position }}<br/>
                             {% endfor %}
                             {% if site.data.profile.cv_link %}
-                            <a target="_blank" href="{{ site.data.profile.cv_link }}"><i class="fas fa-file-alt"></i> [Curriculum Vitae]</a> <br/>
-                            {% endif %}
+<!--                             <a target="_blank" href="{{ site.data.profile.cv_link }}"><i class="fas fa-file-alt"></i> [Curriculum Vitae]</a> <br/>
+                            {% endif %} -->
                         </p>
                         </div>
                         <div class="d-block d-md-none">
@@ -91,6 +91,9 @@
                         <a class="pr-3 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}">
                             <i class="fab fa-orcid"></i> ORCID
                         </a>
+                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.cv_link }}">
+                            <i class="fas fa-file-alt"></i> Curriculum Vitae
+                        </a> 
                         {% endif %}
                          
                     </div>
