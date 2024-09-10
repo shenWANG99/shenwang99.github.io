@@ -11,7 +11,7 @@ gscholar: TDDz5lMAAAAJ
 # github: your_github_id
 # twitter: your_twitter_id
 wechat_qrcode: assets/images/etc/wechat.jpg
-cv:
+cv_link: assets/shenWANG-CV.pdf
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
