@@ -17,7 +17,7 @@ authors:
   - Zhenlin An
   - Lei Yang
 links:
-  paper: https://dl.acm.org/doi/abs/10.1145/3678572
+  Paper: https://dl.acm.org/doi/abs/10.1145/3678572
   Code: https://shenwang99.github.io/
   
 ---
