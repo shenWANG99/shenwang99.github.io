@@ -17,7 +17,7 @@ authors:
   - Donghui Dai
   - Lei Yang
 links:
-  paper: https://doi.org/10.1145/3636534.3690706
+  Paper: https://doi.org/10.1145/3636534.3690706
   Demo: https://www.youtube.com/watch?v=rP-Oe07ZGT4
   
 ---
