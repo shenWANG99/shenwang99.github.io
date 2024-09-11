@@ -18,4 +18,5 @@ authors:
   - Lei Yang
 links:
   Code: https://shenwang99.github.io/
+  paper: https://dl.acm.org/doi/abs/10.1145/3678572
 ---
