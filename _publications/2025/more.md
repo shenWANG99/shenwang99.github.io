@@ -6,7 +6,7 @@ pub:            "ACM Mobicom (CCF-A)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
-pub_date:       "2025"
+pub_date:       "2026"
 
 abstract: >-
     Accurately modeling the radiance field of 5G signals in urban environments is essential for reliable network operation and scalable planning of next-generation wireless systems. Recent advances in neural radiance fields (NeRF$^2$) have shown great success in capturing the spatially continuous behavior of radio propagation. However, existing NeRF^2 frameworks remain limited to small-scale scenes, suffering from severe accuracy degradation and prohibitive computational costs when extended to city-scale deployments.
