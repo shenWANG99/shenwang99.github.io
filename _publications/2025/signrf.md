@@ -9,7 +9,7 @@ pub:            "IEEE INFOCOM (CCF-A)"
 pub_date:       "2026"
 
 abstract: >-
-    Accurate modeling of urban-scale wireless channels is critical for the next-generation 5G/6G communication systems. Conventional approaches—both deterministic and statistical are inherently limited by a trade-off between accuracy and computational efficiency. While recent advances in neural radiance fields (NeRF2) have shown promise for indoor channel prediction, their extension to urban-scale environments remains infeasible due to the need for large-scale labeled measurements and the substantial computational overhead required for high-resolution radiance field representations. To address these challenges, we propose SIGN-RF, a self-adaptive neural field framework for urban-scale radio reconstruction.
+    Accurate modeling of urban-scale wireless channels is critical for the next-generation 5G/6G communication systems. Conventional approaches—both deterministic and statistical are inherently limited by a trade-off between accuracy and computational efficiency. While recent advances in neural radiance fields (NeRF^2) have shown promise for indoor channel prediction, their extension to urban-scale environments remains infeasible due to the need for large-scale labeled measurements and the substantial computational overhead required for high-resolution radiance field representations. To address these challenges, we propose SIGN-RF, a self-adaptive neural field framework for urban-scale radio reconstruction.
 cover:          assets/images/covers/signrf.jpg
 authors:
   - Shen Wang
