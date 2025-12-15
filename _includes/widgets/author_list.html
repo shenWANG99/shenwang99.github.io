@@ -20,11 +20,24 @@
         {%- assign name = key -%}
     {%- endif -%}
 
+    {%- comment -%}处理下划线逻辑开始{%- endcomment -%}
+    {%- if info['underline'] == true -%}
+        {%- assign underline_start = '<u>' -%}
+        {%- assign underline_end = '</u>' -%}
+    {%- else -%}
+        {%- assign underline_start = '' -%}
+        {%- assign underline_end = '' -%}
+    {%- endif -%}
+    {%- comment -%}处理下划线逻辑结束{%- endcomment -%}
+
     {%- if info['bold'] == true -%}
         {%- assign display_name = name | append: mark | prepend: "<strong>" | append: "</strong>" -%}
     {%- else -%}
         {%- assign display_name = name | append: mark -%}
     {%- endif -%}
+    
+    {%- comment -%}应用下划线到显示名称{%- endcomment -%}
+    {%- assign display_name = underline_start | append: display_name | append: underline_end -%}
     
     {%- if info['url'] -%}
         <a class="text-body" target="_blank" href="{{ info['url'] }}">{{ display_name }}</a>{%- if forloop.index < authors.size -%}, {% endif -%}
