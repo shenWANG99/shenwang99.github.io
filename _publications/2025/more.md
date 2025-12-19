@@ -2,7 +2,7 @@
 title:          "City-Scale Radiance-Field Reconstruction via Mixture of Radio Experts"
 date:           2025-11-24 00:01:00 +0800
 selected:       true
-pub:            "ACM Mobicom (CCF-A)"
+pub:            "ACM MobiCom (CCF-A)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
